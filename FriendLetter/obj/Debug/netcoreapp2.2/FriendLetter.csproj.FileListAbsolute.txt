@@ -21,3 +21,4 @@ C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcorea
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cs
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.Views.pdb
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.csproj.CopyComplete
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form.g.cshtml.cs
