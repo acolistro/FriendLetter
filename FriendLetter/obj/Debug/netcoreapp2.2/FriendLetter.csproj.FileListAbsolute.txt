@@ -12,3 +12,12 @@ C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcorea
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cache
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.dll
 C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.pdb
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.Views.dll
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.Views.pdb
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.TagHelpers.input.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.TagHelpers.output.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorCoreGenerate.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\Razor\Views\Home\Letter.g.cshtml.cs
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cs
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.Views.pdb
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.csproj.CopyComplete
