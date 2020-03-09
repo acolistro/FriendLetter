@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.deps.json
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.runtimeconfig.json
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.runtimeconfig.dev.json
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.dll
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\bin\Debug\netcoreapp2.2\FriendLetter.pdb
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.csprojAssemblyReference.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorAssemblyInfo.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorAssemblyInfo.cs
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfo.cs
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cache
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.dll
+C:\Users\ThinkPad\desktop\FriendLetter2.Solution\FriendLetter\obj\Debug\netcoreapp2.2\FriendLetter.pdb
