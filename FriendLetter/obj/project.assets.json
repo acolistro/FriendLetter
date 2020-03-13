@@ -12089,11 +12089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThinkPad\\desktop\\FriendLetter2.Solution\\FriendLetter\\FriendLetter.csproj",
+      "projectUniqueName": "C:\\Users\\ThinkPad\\desktop\\FriendLetter\\FriendLetter\\FriendLetter.csproj",
       "projectName": "FriendLetter",
-      "projectPath": "C:\\Users\\ThinkPad\\desktop\\FriendLetter2.Solution\\FriendLetter\\FriendLetter.csproj",
+      "projectPath": "C:\\Users\\ThinkPad\\desktop\\FriendLetter\\FriendLetter\\FriendLetter.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThinkPad\\desktop\\FriendLetter2.Solution\\FriendLetter\\obj\\",
+      "outputPath": "C:\\Users\\ThinkPad\\desktop\\FriendLetter\\FriendLetter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

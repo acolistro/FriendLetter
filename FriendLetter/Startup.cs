@@ -25,6 +25,7 @@ namespace FriendLetter
 
         public void Configure(IApplicationBuilder app)
         {
+            // app.UseDeveloperExceptPage();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -32,12 +33,12 @@ namespace FriendLetter
                   template: "{controller=Home}/{action=Index}/{id?}");
             });
 
+            app.UseStaticFiles();
             app.Run(async (context) =>
             {
               await context.Response.WriteAsync("Hello World!");
             });
 
-            app.UseDeveloperExceptPage();
         }
     }
 }
